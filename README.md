@@ -57,7 +57,7 @@ Execute the programs and publish them.
     <title>Noble Dine Restaurant</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
-<body>
+<body bgcolor="lightgreen">
     <header>
         <h1>Welcome to Noble Dine Restaurant</h1>
         <nav>
@@ -98,7 +98,7 @@ Execute the programs and publish them.
     <title>Royal Stay - Your Luxury Accommodation</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
-<body>
+<body bgcolor="blue">
     <header>
         <h1>Welcome to Royal Stay</h1>
         <nav>
@@ -149,7 +149,7 @@ Execute the programs and publish them.
     <title>Babu Cinema</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
-<body>
+<body bgcolor="lightblue">
     <header>
         <h1>Welcome to Babu Cinema</h1>
     </header>
@@ -193,7 +193,7 @@ Execute the programs and publish them.
     <title>Varatharaja Perumal Temple</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
-<body>
+<body bgcolor="orange">
     <header>
         <h1>Varatharaja Perumal Temple</h1>
         <nav>
@@ -228,7 +228,7 @@ Execute the programs and publish them.
 ```
 <!DOCTYPE html>
 <html>
-<head>
+<head bgcolor="yellow">
     <meta charset="UTF-8">
     <title>Atho Street Food Shop</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
@@ -265,15 +265,12 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-
-![Alt text](<Screenshot 2023-11-01 105159.png>)
-![Alt text](<Screenshot 2023-11-01 105216.png>)
-![Alt text](<Screenshot 2023-11-01 105239.png>)
-![Alt text](<Screenshot 2023-11-01 105256.png>)
-![Alt text](<Screenshot 2023-11-01 105309.png>)
-![Alt text](<Screenshot 2023-11-01 105324.png>)
-
-
+![Alt text](map.png)
+![Alt text](Nobledine.png)
+![Alt text](RoyalStay.png)
+![Alt text](BabuCinema.png)
+![Alt text](temple.png)
+![Alt text](Atho.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
